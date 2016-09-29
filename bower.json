@@ -1,0 +1,24 @@
+{
+  "name": "noancms",
+  "description": "Prosty stystm CMS",
+  "main": [],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "html5shiv": "^3.7.3",
+    "respond": "^1.4.2"
+  },
+  "devDependencies": {},
+  "moduleType": [],
+  "keywords": [],
+  "authors": [
+    "Robert Baryła <robert@em4u.pl>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "private": true
+}
